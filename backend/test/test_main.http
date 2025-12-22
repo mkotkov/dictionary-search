@@ -1,0 +1,8 @@
+### GET word ekilex
+GET http://localhost:8000/ekilex/maja
+
+###GET word ekilex from dataset
+GET http://localhost:8000/ekilex/maja/eki
+
+
+
